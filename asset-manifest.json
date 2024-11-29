@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.efab6ab2.js",
-    "index.html": "/index.html",
-    "main.efab6ab2.js.map": "/static/js/main.efab6ab2.js.map"
+    "main.js": "/javascript_study_codesandbox/static/js/main.efab6ab2.js",
+    "index.html": "/javascript_study_codesandbox/index.html",
+    "main.efab6ab2.js.map": "/javascript_study_codesandbox/static/js/main.efab6ab2.js.map"
   },
   "entrypoints": [
     "static/js/main.efab6ab2.js"
